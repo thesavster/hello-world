@@ -1,2 +1,2 @@
 # hello-world
-First try.
+Just trying to learn a bit.
